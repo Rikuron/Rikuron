@@ -35,10 +35,12 @@ You can reach out to me through the links below:
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img id="web-dev" src="https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs,php,express,jquery,npm,pnpm,postman,tailwind,vite,nextjs" />
-    <img id="programming" src="https://skillicons.dev/icons?i=java,py,dart,flutter" />
-    <img id="database-and-data-analysis" src="https://skillicons.dev/icons?i=mysql,redis,mongodb,r,sklearn" />
-    <img id="other-tools" src="https://skillicons.dev/icons?i=bash,figma,gcp,git,md,notion,ps,svg,vercel,vscode,idea,pycharm,androidstudio,windows,ubuntu" />
+    <img id="web-dev" src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,npm,pnpm,postman" />
+    <img id="frameworks-and-libraries" src="https://skillicons.dev/icons?i=react,express,jquery,tailwind,vite,nextjs" />
+    <img id="programming" src="https://skillicons.dev/icons?i=java,py,ts" />
+    <img id="database-and-data-analysis" src="https://skillicons.dev/icons?i=mysql,redis,mongodb,firebase,r,sklearn" />
+    <img id="cloud-and-devops" src="https://skillicons.dev/icons?i=gitlab,gcp,vercel" >
+    <img id="other-tools" src="https://skillicons.dev/icons?i=bash,figma,git,md,notion,ps,svg,vscode,idea,pycharm,androidstudio,windows,ubuntu" />
     <img id="socials" src="https://skillicons.dev/icons?i=discord,github,gmail,instagram,linkedin,stackoverflow" />
 </div>
 
