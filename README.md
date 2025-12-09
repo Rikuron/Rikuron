@@ -25,7 +25,7 @@ You can reach out to me through the links below:
   <a href="https://www.linkedin.com/in/josh-eugenio-43148332b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank" />
   </a>
-  <a href="https://rikuron.github.io/Web-Portfolio/" target="_blank">
+  <a href="https://rikuron-web-portfolio.vercel.app" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
